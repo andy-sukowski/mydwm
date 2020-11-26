@@ -9,7 +9,8 @@ It uses the [Nord](https://www.nordtheme.com) theme, an arctic, north-bluish col
 
 These are the patches that I applied to my custom version of dwm:
 
-- [tilegap](https://dwm.suckless.org/patches/tilegap/)
+- [tilegap](https://dwm.suckless.org/patches/tilegap)
+- [statuspadding](https://dwm.suckless.org/patches/statuspadding)
 
 ## Requirements
 

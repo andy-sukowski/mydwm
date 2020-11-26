@@ -3,6 +3,8 @@
 This is my custom version of [dwm](https://dwm.suckless.org), an extremely fast,
 small, and dynamic window manager for X.
 
+It uses the [Nord](https://www.nordtheme.com) theme, an arctic, north-bluish color palette.
+
 ## Requirements
 
 In order to build dwm you need the Xlib header files.

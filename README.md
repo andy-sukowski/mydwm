@@ -5,6 +5,12 @@ small, and dynamic window manager for X.
 
 It uses the [Nord](https://www.nordtheme.com) theme, an arctic, north-bluish color palette.
 
+## Patches
+
+These are the patches that I applied to my custom version of dwm:
+
+- [tilegap](https://dwm.suckless.org/patches/tilegap/)
+
 ## Requirements
 
 In order to build dwm you need the Xlib header files.
